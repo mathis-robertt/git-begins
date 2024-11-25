@@ -5,3 +5,6 @@ Les 3 commandes de push
 git add .
 git commit -m "ajout fhichier"
 git push
+
+pull
+git pull
